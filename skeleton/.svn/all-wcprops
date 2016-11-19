@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton
+END
+displaySimOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/displaySimOutput.m
+END
+runlocalization_track.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/runlocalization_track.m
+END
+jacobian_observation_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/~johnf/!svn/ver/169/EL2320_2/ekf/skeleton/jacobian_observation_model.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/README
+END
+init.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/init.m
+END
+drawLandmarkMap.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/drawLandmarkMap.m
+END
+make_covariance_ellipses.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/make_covariance_ellipses.m
+END
+observation_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/observation_model.m
+END
+associate.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/associate.m
+END
+batch_associate.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/batch_associate.m
+END
+calculate_odometry.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/calculate_odometry.m
+END
+update.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/update.m
+END
+batch_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/batch_update.m
+END
+kf_car.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/~johnf/!svn/ver/65/EL2320_2/ekf/skeleton/kf_car.m
+END
+ekf_localize.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/ekf_localize.m
+END
+predict.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/~johnf/!svn/ver/18/EL2320_2/ekf/skeleton/predict.m
+END
